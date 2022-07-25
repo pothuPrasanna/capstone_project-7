@@ -1,0 +1,8 @@
+
+.table{
+    background-color: honeydew;
+}
+
+.table,th,tr,td,thead{
+    border: 1px solid black;
+}

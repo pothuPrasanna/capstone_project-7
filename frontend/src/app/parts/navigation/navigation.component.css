@@ -1,0 +1,14 @@
+.logo{
+    font-size: 10rem;
+    margin-top: 5px;
+}
+.navbar{
+    color: black;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    font-size: 1.8rem;
+    color: blue;
+    margin-right: 20px;
+    background-color: white;
+}
